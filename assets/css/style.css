@@ -3,8 +3,33 @@
 .first-article{
     width:700px;
     border-radius:8px;
-    border:5px solid green;
-    box-shadow: 0cm gray;
+    border:5px #eee;
+    box-shadow: 0cm #ddd;
     padding:15px;
     text-align: center;
+    font-family: #dd3232;
+    font-family:sans-serif; /* Changed the font family to Sans Abril won't show up or any other preferred font */
+      }
+      
+
+.body{
+    background: #eee;
+    border: #eee;
+    
 }
+.main{
+    width: 700px;
+    text-align: center;
+    justify-content: center;
+
+}
+.newpaper-container{
+    width: 700px;
+    border-radius: 1em;
+    box-shadow: grey;
+    padding: auto;
+}
+h1, h2, h3 {
+    font-family: Arial, Helvetica, sans-serif; /* Change the font family to Arial or any other preferred font */
+  }
+  
